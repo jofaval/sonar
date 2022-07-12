@@ -42,7 +42,6 @@ And one of the strongest points, if not the most, about Python, are it's librari
 - Numpy, a really strong linear algebra library, used in the project for it's statistics utilities, SciPy may be an alternative, but I have no experience at all with it.
 - Matplotlib and Seaborn, both fantastic libraries for data visualization, and they complement each other.
 - Scikit-Learn, the library used for Machine Learning and statistics models: Linear Regression, SVR, Lasso, Ridge, etc.
-- Tensorflow and Keras, the industry standard for Deep Learning, the way to go, not really, it's just that for now I don't have that many experience with PyTorch
 
 ## 💹 Algorithms
 [↑ Back to the table](#table-of-contents)
