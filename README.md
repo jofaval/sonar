@@ -58,7 +58,7 @@ There only, important, visualization that there's in this project, is the sonar 
 ## 🤓 Conclusions
 [↑ Back to the table](#table-of-contents)
 
-Whenever possible, even on a perfect, ready-to-work dataset, read the abstract, the papaer, whatever information it is that you may have at hand, it truly helps understand the evaluation of the results and it's tuning.
+Whenever possible, even on a perfect, ready-to-work dataset, read the abstract, the paper, whatever information it is that you may have at hand, it truly helps understand the evaluation of the results and it's tuning.
 
 And, once again, distribution can do wonders, having a distributed dataset is truly important, and if you don't have one, you can create it, undersampling is the best option around, unless you can actually create/collect reliable synthethic data, which is not the case.
 
